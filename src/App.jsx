@@ -1,10 +1,5 @@
-import React from 'https://esm.sh/react@18';
-import {
-  HashRouter,
-  Routes,
-  Route,
-  Link
-} from 'https://esm.sh/react-router-dom@6';
+import React from 'react';
+import { HashRouter, Routes, Route, Link } from 'react-router-dom';
 
 import Home from './pages/Home.jsx';
 import Services from './pages/Services.jsx';
