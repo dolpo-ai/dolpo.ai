@@ -1,0 +1,14 @@
+{
+  "name": "dolpo.ai",
+  "version": "1.0.0",
+  "description": "Dolpo.ai website for private AI solutions on customer premises.",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.0"
+  }
+}
